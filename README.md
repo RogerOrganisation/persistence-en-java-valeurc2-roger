@@ -31,5 +31,9 @@ Travail demandé
     2. appeler les services ainsi créé
 2. Utiliser JPA et mysql pour la présidence 
 
+#Quelques liens
 
+https://www.geeksforgeeks.org/file-handling-java-using-filewriter-filereader/
+https://www.mkyong.com/java/how-to-write-to-file-in-java-fileoutputstream-example/
+https://java2blog.com/gson-example-read-and-write-json/
 
